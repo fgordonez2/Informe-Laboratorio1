@@ -150,6 +150,7 @@
 https://youtu.be/dw2puZay7xA
 
 ***6. CONCLUSIONES***
+- Al realizar el presente laboratorio se puede afirmar que las leyes Kirchoff son casi exactas,tan solo un valor menor al 10 de margen de error, por lo que estuadiarlas y dominarlas de forma correcta es escencial para realizar los respectivos cálculos en un circuito eléctrico.
 
 
 ***7. BIBLIOGRAFÍA***
