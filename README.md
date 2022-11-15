@@ -150,6 +150,10 @@
 https://youtu.be/dw2puZay7xA
 
 ***6. CONCLUSIONES***
+- Como conclusión principal se puede verificar que los porcentajes de error son bastante bajos, por lo que las Leyes de Kircchoff
+  se cumplen, con errores menores al 10%
+- 2 
+- 3
 
 
 ***7. BIBLIOGRAFÍA***
